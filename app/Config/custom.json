@@ -96,6 +96,11 @@
         "name": "Couch:4",
         "icon": "light_light_dim_100.png",
         "display_name": "Couch"
+      },
+      {
+        "name": "Couch:4",
+        "icon": "light_light_dim_100.png",
+        "display_name": "Couch"
       }, 
       {
         "name": "Kueche:4",
