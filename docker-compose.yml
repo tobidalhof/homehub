@@ -1,14 +1,8 @@
 version: "3.7"
 
-services: 
-  cli: 
-    image: php/8-cli-buster
-    volumes:
-      - ./:/var/www/html/
-   
+services:    
   php: 
-    image: php/8-apache-buster
-    restart: unless-stopped
+    build: .
     ports:
       - "80:80"
     volumes:
