@@ -88,9 +88,9 @@
     ],
     "EG_Licht": [
       {
-        "name": "Wohnzimmer:4",
+        "name": "Beleuchtung innen",
         "icon": "light_light_dim_100.png",
-        "display_name": "Wohnraum"
+        "display_name": "Wintergarten"
       },
       {
         "name": "Couch:4",
